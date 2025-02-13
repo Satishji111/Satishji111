@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Satish</h1>
 <h3 align="center">A Data Science Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Data Science Master**
+- 🌱 I have completed **Full Stack Data Science Master** course
 
-- 💬 Ask me about **Currently working at Morningstar. Keen to be in Data Science industry**
+- 💬**Currently working at Morningstar. Keen to be in Data Science industry**
 
-- 📫 How to reach me **satish.data.science111@gmail.com**
+- 📫 How to reach me **satish.data.analyst111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/satish-yadav-b66aa4208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satish-yadav-b66aa4208/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/satish-yadav-b66aa4208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satish-yadav-b66aa4208/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22453497/satish-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22453497/satish-yadav" height="30" width="40" /></a>
 </p>
 
